@@ -1,1 +1,0 @@
-# database/migrations/catalogos/__init__.py
